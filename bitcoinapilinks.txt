@@ -1,0 +1,5 @@
+https://apiv2.bitcoinaverage.com/#ticker-data-all
+
+https://apiv2.bitcoinaverage.com/#ticker-data-per-symbol
+
+https://apiv2.bitcoinaverage.com/#price-conversion
